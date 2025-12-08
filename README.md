@@ -2,9 +2,9 @@
 
 **Software Developer | Bridging Earth Science Data & Scalable Software Solutions**
 
-I am a **Full-Stack Engineer** based in Jakarta, Indonesia. [cite_start]I specialize in bridging Earth Science (Meteorology) data with efficient and elegant software solutions[cite: 19, 23].
+I am a **Full-Stack Engineer** based in Jakarta, Indonesia. I specialize in bridging Earth Science (Meteorology) data with efficient and elegant software solutions.
 
-[cite_start]Currently, I serve as the **Lead Software Developer** at the *Open Knowledge Association (OKA)* and as a **Software Developer** at the *Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)*[cite: 21].
+Currently, I serve as the **Lead Software Developer** at the *Open Knowledge Association (OKA)* and as a **Software Developer** at the *Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)*.
 
 ---
 
@@ -36,15 +36,15 @@ I am a **Full-Stack Engineer** based in Jakarta, Indonesia. [cite_start]I specia
 
 ### 🔭 Current Work
 
-* **Open Knowledge Association (OKA):** Spearheading technical contributions for the *WikiEduDashboard* platform. [cite_start]My focus includes full-stack architectural design, implementing advanced statistical filters, and optimizing backend performance using Ruby on Rails and React[cite: 53, 56, 58].
-* [cite_start]**BMKG:** actively developing information systems and managing weather data APIs using Laravel, Node.js, and Python[cite: 32, 33, 37].
+* **Open Knowledge Association (OKA):** Spearheading technical contributions for the *WikiEduDashboard* platform. My focus includes full-stack architectural design, implementing advanced statistical filters, and optimizing backend performance using Ruby on Rails and React.
+* **BMKG:** Actively developing information systems and managing weather data APIs using Laravel, Node.js, and Python.
 
 ### 📚 Selected Publications
 
 With an academic background in Meteorology, I have published the following research:
 
-1.  [cite_start]**Parameterizing the Scheme of Convective Microphysics and Planetary Boundary Layer Using WRF-ARW** - A case study on a heavy rain event at Cilacap Meteorological Station[cite: 16].
-2.  [cite_start]**Study of Indonesia's Solar Energy Implementation** - Identification of potency, policies, and cost-benefit analysis[cite: 17].
+1.  **Parameterizing the Scheme of Convective Microphysics and Planetary Boundary Layer Using WRF-ARW** - A case study on a heavy rain event at Cilacap Meteorological Station.
+2.  **Study of Indonesia's Solar Energy Implementation** - Identification of potency, policies, and cost-benefit analysis.
 
 ---
 
@@ -57,5 +57,5 @@ With an academic background in Meteorology, I have published the following resea
 
 ### 📫 Connect with Me
 
-* 📧 **Email:** [mail@satrio.dev](mailto:mail@satrio.dev) | [cite_start][stryuw@gmail.com](mailto:stryuw@gmail.com) [cite: 2]
-* [cite_start]💼 **LinkedIn:** [Satriyo Unggul Wicaksono](https://www.linkedin.com/in/satriyounggulwicaksono) [cite: 4]
+* 📧 **Email:** [mail@satrio.dev](mailto:mail@satrio.dev) | [stryuw@gmail.com](mailto:stryuw@gmail.com)
+* 💼 **LinkedIn:** [Satriyo Unggul Wicaksono](https://www.linkedin.com/in/satriyounggulwicaksono)
