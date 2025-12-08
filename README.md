@@ -2,9 +2,9 @@
 
 **Software Developer | Bridging Earth Science Data & Scalable Software Solutions**
 
-Saya adalah seorang **Full-Stack Engineer** yang berbasis di Jakarta, Indonesia. Saya memiliki spesialisasi unik dalam menghubungkan data Ilmu Kebumian (Meteorologi) dengan pengembangan perangkat lunak modern yang efisien.
+I am a **Full-Stack Engineer** based in Jakarta, Indonesia. [cite_start]I specialize in bridging Earth Science (Meteorology) data with efficient and elegant software solutions[cite: 19, 23].
 
-Saat ini, saya bekerja sebagai **Lead Software Developer** di *Open Knowledge Association (OKA)* dan **Software Developer** di *BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)*.
+[cite_start]Currently, I serve as the **Lead Software Developer** at the *Open Knowledge Association (OKA)* and as a **Software Developer** at the *Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)*[cite: 21].
 
 ---
 
@@ -17,8 +17,10 @@ Saat ini, saya bekerja sebagai **Lead Software Developer** di *Open Knowledge As
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-**Backend & Frameworks**
+**Runtime & Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
@@ -34,26 +36,26 @@ Saat ini, saya bekerja sebagai **Lead Software Developer** di *Open Knowledge As
 
 ### 🔭 Current Work
 
-* **Open Knowledge Association (OKA):** Memimpin pengembangan teknis untuk platform open-source *WikiEduDashboard*. Fokus pada arsitektur full-stack, filter statistik lanjutan, dan optimalisasi performa backend menggunakan Ruby on Rails dan React.
-* **BMKG:** Mengembangkan sistem informasi penerbangan dan mengelola Data API cuaca menggunakan Laravel, Node.js, dan Python.
+* **Open Knowledge Association (OKA):** Spearheading technical contributions for the *WikiEduDashboard* platform. [cite_start]My focus includes full-stack architectural design, implementing advanced statistical filters, and optimizing backend performance using Ruby on Rails and React[cite: 53, 56, 58].
+* [cite_start]**BMKG:** actively developing information systems and managing weather data APIs using Laravel, Node.js, and Python[cite: 32, 33, 37].
 
 ### 📚 Selected Publications
 
-Saya memiliki latar belakang akademis di bidang Meteorologi dan telah mempublikasikan penelitian berikut:
+With an academic background in Meteorology, I have published the following research:
 
-1.  **Parameterizing the Scheme of Convective Microphysics and Planetary Boundary Layer Using WRF-ARW** - Studi kasus hujan lebat di Stasiun Meteorologi Cilacap.
-2.  **Study of Indonesia's Solar Energy Implementation** - Identifikasi potensi, kebijakan, dan analisis biaya-manfaat.
+1.  [cite_start]**Parameterizing the Scheme of Convective Microphysics and Planetary Boundary Layer Using WRF-ARW** - A case study on a heavy rain event at Cilacap Meteorological Station[cite: 16].
+2.  [cite_start]**Study of Indonesia's Solar Energy Implementation** - Identification of potency, policies, and cost-benefit analysis[cite: 17].
 
 ---
 
 ### 📈 GitHub Stats
 
-![Satriyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBAH_DENGAN_USERNAME_GITHUB_ANDA&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UBAH_DENGAN_USERNAME_GITHUB_ANDA&layout=compact&theme=radical)
+![Satriyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=satrijo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrijo&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 
-* 📧 **Email:** stryuw@gmail.com
-* 💼 **LinkedIn:** [Satriyo Unggul Wicaksono](https://www.linkedin.com/in/satriyounggulwicaksono)
+* 📧 **Email:** [mail@satrio.dev](mailto:mail@satrio.dev) | [cite_start][stryuw@gmail.com](mailto:stryuw@gmail.com) [cite: 2]
+* [cite_start]💼 **LinkedIn:** [Satriyo Unggul Wicaksono](https://www.linkedin.com/in/satriyounggulwicaksono) [cite: 4]
