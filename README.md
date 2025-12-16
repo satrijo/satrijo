@@ -50,7 +50,6 @@ With an academic background in Meteorology, I have published the following resea
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satrijo)](https://git.io/streak-stats)
 ![Satriyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=satrijo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrijo&layout=compact&theme=radical)
 
