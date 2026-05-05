@@ -4,7 +4,7 @@
 
 I am a **Full-Stack Engineer** based in Jakarta, Indonesia. I specialize in bridging Earth Science (Meteorology) data with efficient and elegant software solutions.
 
-Currently, I serve as the **Lead Software Developer** at the *Open Knowledge Association (OKA)* and as a **Software Developer** at the *Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)*.
+Currently, I serve as the **Software Engineer** at the *Indonesian Agency for Meteorology, Climatology, and Geophysics (BMKG)*.
 
 ---
 
@@ -36,7 +36,6 @@ Currently, I serve as the **Lead Software Developer** at the *Open Knowledge Ass
 
 ### 🔭 Current Work
 
-* **Open Knowledge Association (OKA):** Spearheading technical contributions for the *WikiEduDashboard* platform. My focus includes full-stack architectural design, implementing advanced statistical filters, and optimizing backend performance using Ruby on Rails and React.
 * **BMKG:** Actively developing information systems and managing weather data APIs using Laravel, Node.js, and Python.
 
 ### 📚 Selected Publications
