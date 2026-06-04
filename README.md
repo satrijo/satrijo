@@ -101,8 +101,10 @@ Bachelor of Applied Science (BASc), Meteorology | 2012 – 2017
 
 ## GitHub Statistics
 
-![Satriyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=satrijo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrijo&layout=compact&theme=radical)
+<a href="https://github.com/satrijo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satrijo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satrijo&layout=compact&theme=default&hide_border=true" />
+</a>
 
 ---
 
